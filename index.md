@@ -13,4 +13,4 @@ title: Main Page
 
 This page has been imploded to make way for ✨ *something new and exciting and marvelous*. ✨ There'll be something here soon!
 
-Until then, check out [@zyabin101@botsin.space](https://botsin.space/@zyabin101)
+In the meantime, why not check out [@zyabin101@botsin.space](https://botsin.space/@zyabin101)? There's a lot of something-making over there.
