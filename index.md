@@ -7,7 +7,7 @@ title: Main Page
 
 > My *Garglaric!* GitHub Pages page, under construction
 
-**Main Page**
+**Main Page** &middot; [Blog](/blog)
 
 * * *
 
