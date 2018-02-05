@@ -1,9 +1,11 @@
 # schas002.github.io
 
-> My personal GitHub Pages page, under construction
-
-This page has been imploded to make way for ✨ *something new and exciting and marvelous*. ✨ There'll be something here soon!
+> My personal GitHub Pages page
 
 ## Maintainer
 
 - Andrew Zyabin - @schas002 - [@zyabin101@botsin.space](https://botsin.space/@zyabin101)
+
+## License
+
+*Page content is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.*
