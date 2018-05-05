@@ -2,6 +2,8 @@
 
 > My personal GitHub Pages page
 
+[Go here](https://schas002.github.io).
+
 ## Maintainer
 
 - Andrew Zyabin - @schas002 - [@zyabin101@botsin.space](https://botsin.space/@zyabin101)
