@@ -14,11 +14,9 @@ title: Main Page
 Hi, I'm **Andrew Zyabin**, a **something-maker** from **Russia**. This is my GitHub Pages page.
 
 - I'm on **[Mastodon](https://joinmastodon.org)**, at **[@ `zyabin101` @ `botsin` . `space`](https://botsin.space/@zyabin101)** and a few other instances.
-  - I contributed some translations to Mastodon but that's pretty much it.
+	- However, the Mastodon *software* does not want me here (while the Mastodon *community* does).
 
-- I have a **[blog](/blog)**, which is pretty much as not updated as this page.
-
-- I also maintain **[unari](/unari)**, a project where draw friendly ghosts.
+- I have a **[blog](/blog)**, which got no updates in a year I guess.
 
 * * *
 
